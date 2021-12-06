@@ -1,0 +1,35 @@
+##Project Overview
+
+Today's agenda will be as follows:
+1. We will recap the overall project to give a high level understanding of the business problem we're tackling and the specific requirements.
+2. We will dive into the specific problem that we, the Data Analytics team, have been focusing on and will give some background as to why this is such a big problem.
+3. After introducing the problem, I will go over the team responsible from our side in tackling this task.
+4. I will then go over the high-level process that we followed to complete this task, so that you have complete clarity in how we tackle these kinds of tasks.
+5. Finally, I will go over the all important results and I will present them as a series of insights and visualizations from our analysis.
+
+##INFORMATION 
+
+Clearly with such grand scale, this comes with a lot of data and with such vast amounts of data comes challenges.
+To give a background on how much data you've been creating:
+- This platform receives over 100000 posts per day which amounts to 36 500 000 posts every year, of which, this is all unstructured data making it very hard to make sense of.
+In this day and age, content is king. Just look at some of the biggest platforms in the world, for example YouTube, Facebook and Netflix, they are all content businesses.
+But how to capitalize on it when there is so much?
+It's not just all about harvesting as much content as possible. 
+The real value is in understanding and crunching this content to gain a deeper understanding of your audience and to therefore provide a more personalized and enjoyable experience.
+And this is where out data analytics expertise comes in, with the insights that we've uncovered from this task, we can show you exactly how to take analytics to production at scale.
+  
+##STEPS
+So, how did we tackle this problem? 
+Well we approached it in 5 steps:
+1. Data understanding - the key to success on any data project is to understand the data in detail. So we took the time to understand the data model and domain of your business.
+2. Data cleaning - after understanding your business, we then cleaned the available datasets and thought about what an ideal dataset should look like for this problem.
+3. Data modelling - After ensuring the data was clean for analysis, we needed to process and model this data into a dataset that can precisely answer the business questions and produce the results needed.
+4. Data analysis - With our new dataset, we used our analytical expertise to uncover insights from this dataset and to produce visualizations to describe the insights.
+5. And finally we used these insights to unlock business decisions and to make recommendations on next steps.
+
+##ACT 
+So to summarize:
+We tackled this task and found the top 5 most popular categories as asked, but we also went one step further.
+- We found that animals and science are the two most popular categories, suggesting that users like "real-life" and "factual" content
+- We also found that food was a common theme amongst popular content and the most popular food category was healthy eating. This could be a signal to show the types of people that are using your platform, and you could use this insight to boost engagement even further. For example, you could run a campaign with content focused on this category or work with healthy eating brands to promote content.
+- As much as this analysis was insightful, we are ready to take it to the next stage and we have the expertise within Accenture to help you realize these kinds of insights in production across your organization and in real-time. We would love to help you with this.
