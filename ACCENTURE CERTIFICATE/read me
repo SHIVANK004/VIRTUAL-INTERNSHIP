@@ -4,8 +4,10 @@ Today's agenda will be as follows:
 1. We will recap the overall project to give a high level understanding of the business problem we're tackling and the specific requirements.
 2. We will dive into the specific problem that we, the Data Analytics team, have been focusing on and will give some background as to why this is such a big problem.
 3. After introducing the problem, I will go over the team responsible from our side in tackling this task.
-4. I will then go over the high-level process that we followed to complete this task, so that you have complete clarity in how we tackle these kinds of tasks.
-5. Finally, I will go over the all important results and I will present them as a series of insights and visualizations from our analysis.
+4. We will then go over the high-level process that we followed to complete this task, so that you have complete clarity in how we tackle these kinds of tasks.
+5. Finally, we will go over the all important results and I will present them as a series of insights and visualizations from our analysis.
+
+  Client industry: Social media & content creation 
 
 
 ##INFORMATION 
@@ -15,10 +17,10 @@ To give a background on how much data you've been creating:
 - This platform receives over 100000 posts per day which amounts to 36 500 000 posts every year, of which, this is all unstructured data making it very hard to make sense of.
 In this day and age, content is king. Just look at some of the biggest platforms in the world, for example YouTube, Facebook and Netflix, they are all content businesses.
 But how to capitalize on it when there is so much?
-It's not just all about harvesting as much content as possible. 
-The real value is in understanding and crunching this content to gain a deeper understanding of your audience and to therefore provide a more personalized and enjoyable experience.
-And this is where out data analytics expertise comes in, with the insights that we've uncovered from this task, we can show you exactly how to take analytics to production at scale.
-
+From company data we found that you had a total of 16 unique categories of posts across your sample dataset. This includes things such as Food, Culture and Sport.
+As well as this, there were 1897 reactions from just the animal category alone! People obviously really like animals!
+And also the most common month for users to post within was January. This aligns with seasonal trends of social media users that feel the need to reconnect with people after calendar events such as Christmas.
+But now, onto the main question what were the top 5 most popular categories of posts?
 
 ##STEPS
 
